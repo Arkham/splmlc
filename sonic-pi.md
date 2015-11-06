@@ -34,7 +34,7 @@
 
 ---
 
-# Tow-rhee-no
+# Toe-rhee-no
 
 ![](images/torino.jpg)
 
@@ -44,13 +44,13 @@
 
 ---
 
-## In 1861, it's the capital of the Kingdom of Italy
+## It once was the capital of the Kingdom of Italy
 
 ![](images/flag-italy.png)
 
 ---
 
-## [fit] We have really good food..
+## We have really good food you should try
 
 ---
 
@@ -71,3 +71,7 @@
 # [fit] Bun-nya Cow-duh
 
 ![](images/bagna-caoda.jpg)
+
+---
+
+![](images/james-bond.jpg)
