@@ -40,7 +40,7 @@
 
 ---
 
-## Turin is famous for many things..
+## Turin is famous for many things
 
 ---
 
@@ -50,17 +50,19 @@
 
 ---
 
-## We have really good food you should try
+## James Bond's old time favourite
 
 ---
 
-![](images/gianduiotto.jpg)
+![](images/james-bond.jpg)
 
 ---
 
-# [fit] Jan-doo-yottaw
+![fit](images/martini-rossi.jpg)
 
-![](images/gianduiotto.jpg)
+---
+
+## We have some pretty amazing delicatessen
 
 ---
 
@@ -74,4 +76,42 @@
 
 ---
 
-![](images/james-bond.jpg)
+![](images/gianduiotto.jpg)
+
+---
+
+# [fit] Jan-doo-yottoe
+
+![](images/gianduiotto.jpg)
+
+---
+
+![fit](images/bicerin.jpg)
+
+---
+
+# [fit] Bee-chey-reen
+
+![fit](images/bicerin.jpg)
+
+---
+
+## We have contributed a LOT to computing
+
+---
+
+# [fit] Turin Test
+
+![fit](images/turing-test.jpg)
+
+---
+
+# [fit] Turin Machine
+
+![fit](images/turing-machine.jpg)
+
+---
+
+# [fit] Turin Complete
+
+![fit](images/turing-complete.jpg)
