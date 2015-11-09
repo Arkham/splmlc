@@ -10,6 +10,30 @@
 
 ---
 
+I am a Software Engineer
+
+---
+
+I discovered Ruby 5 years ago...
+
+---
+
+and fell in love with it.
+
+---
+
+So I never stopped :)
+
+---
+
+**FACT** I'm addicted to rock climbing
+
+---
+
+![fit](images/climbing.png)
+
+---
+
 ## [fit] I work for *AlphaSights*
 ## [fit] We do Ruby, EmberJS & Elixir*
 #### *I have T-shirts!
@@ -50,7 +74,15 @@
 
 ---
 
-## James Bond's old time favourite
+## We have a very famous football team
+
+---
+
+![fit](images/torinofc.svg)
+
+---
+
+## James Bond owes us something...
 
 ---
 
@@ -115,3 +147,7 @@
 # [fit] Turin Complete
 
 ![fit](images/turing-complete.jpg)
+
+---
+
+## Enough with the jokes
