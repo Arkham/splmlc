@@ -10,6 +10,10 @@
 
 ---
 
+A couple of things about me...
+
+---
+
 I am a Software Engineer
 
 ---
@@ -26,11 +30,19 @@ So I never stopped :)
 
 ---
 
-**FACT** I'm addicted to rock climbing
+I'm addicted to rock climbing
 
 ---
 
 ![fit](images/climbing.png)
+
+---
+
+I live in London
+
+---
+
+![fit](images/queen_elizabeth.jpg)
 
 ---
 
@@ -49,6 +61,10 @@ So I never stopped :)
 ## I love Turin
 
 ![original](images/torino.jpg)
+
+---
+
+![](images/rainbow.jpg)
 
 ---
 
@@ -151,3 +167,13 @@ So I never stopped :)
 ---
 
 ## Enough with the jokes
+
+---
+
+# Questions?
+
+@arkh4m
+
+github.com/Arkham/splmlc
+
+engineering.alphasights.com
