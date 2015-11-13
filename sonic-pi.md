@@ -10,6 +10,10 @@
 
 ---
 
+You can find me as @arkh4m
+
+---
+
 A couple of things about me...
 
 ---
@@ -170,7 +174,11 @@ I live in London
 
 ---
 
-# Questions?
+## This is where the actual talk happens
+
+---
+
+# Thanks!
 
 @arkh4m
 
